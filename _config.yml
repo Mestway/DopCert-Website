@@ -1,3 +1,5 @@
 name: DopCert
 markdown: redcarpet
 highlighter: rouge
+baseurl: "/dopcert-website" # the subpath of your site, e.g. /blog
+url: "http://uwdb.github.io" # the base hostname & protocol for your site
