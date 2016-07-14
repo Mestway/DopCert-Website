@@ -5,8 +5,7 @@ group: "navigation"
 id: home
 ---
 
-DopCert: Database Optimzier Formally Certfied
-==============================================
+
 
 TBD
 
@@ -14,4 +13,4 @@ TBD
 
 ### Contact
 
- dopcert@cs.washington.edu.
+ [DopCert@cs.washington.edu](DopCert@cs.washington.edu).
