@@ -1,4 +1,4 @@
 name: DopCert
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 baseurl: http://dopcert.cs.washington.edu
