@@ -5,25 +5,14 @@ group: "navigation"
 id: home
 ---
 
-Every database system contains a query optimizer that performs query rewrites.
-Unfortunately, developing query optimizers remains a highly challenging task.
-Part of the challenges comes from the intricacies and rich features of query
-languages, which makes reasoning about rewrite rules difficult. In this paper,
-we propose a machine-checkable denotational semantics for SQL, the de facto
-language for relational database, for rigorously validating rewrite rules.
-Unlike previously proposed semantics that are either non-mechanized or only
-cover a small amount of SQL language features, our semantics covers all major
-features of SQL, including bags, correlated subqueries, aggregation, and
-indexes. Our mechanized semantics, called HoTTSQL, is based on K-Relations and
-homotopy type theory, where we denote relations as mathematical functions from
-tuples to univalent types. We have implemented HoTTSQL in Coq, which takes only
-fewer than 300 lines of code and have proved a wide range of SQL rewrite rules,
-including those from database research literature (e.g., magic set rewrites) and
-real-world query optimizers (e.g., subquery elimination). Several of these
-rewrite rules have never been previously proven correct. In addition, while
-query equivalence is generally undecidable, we have implemented an automated
-decision procedure using HoTTSQL for conjunctive queries: a well-studied
-decidable fragment of SQL that encompasses many real-world queries.
+DopCert is a framework developed in [Coq Proof Assistant](https://coq.inria.fr/) for formally verify query optimizations in databases. It consists of the following parts:
+
+1. HoTTSQL, a language that covers all SQL features, such as selection-projection-join, aggregation, correlated subqueries, index. We provide a *machine checkable denotational semantics* of HoTTSQL using [Homotopy Type Theory](https://homotopytypetheory.org/) for proving rewriting rules.
+2. A library that consists of building blocks of proofs and automatic decision procedures (e.g. decision procedure for conjunctive queries).
+3. Machine checkable proofs for existing rewrite rules from database literatures as well as real world optimizers, ranging from basic ones such as push down selection to complex ones such as magic sets rewrites.
+
+### Publications
+* [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics]() (under submission)
 
 ### People
 
