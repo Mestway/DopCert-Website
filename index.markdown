@@ -28,7 +28,7 @@ decidable fragment of SQL that encompasses many real-world queries.
 ### People
 
 If you have any question, want to be kept up-to date, or just want to say hi, email us at 
-[DopCert@cs.washington.edu](DopCert@cs.washington.edu).
+<DopCert@cs.washington.edu>.
 <!-- chushumo at cs dot uw dot edu or weitzkon at cs dot uw dot edu. -->
 
 <a class="person" href="http://shumochu.com/">
