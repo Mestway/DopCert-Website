@@ -7,7 +7,7 @@ id: home
 ### About
 DopCert is a framework developed in [Coq Proof Assistant](https://coq.inria.fr/) for formally verifing query optimizations in databases. It consists of the following parts:
 
-1. HoTTSQL, a language that covers all SQL features, such as selection-projection-join, aggregation, correlated subqueries, index. We provide a *machine checkable denotational semantics* of HoTTSQL using [Homotopy Type Theory](https://homotopytypetheory.org/) for proving rewriting rules.
+1. HoTTSQL, a SQL like language that covers all major SQL features, such as selection-projection-join, aggregation, correlated subqueries, index. We provide a *machine checkable denotational semantics* of HoTTSQL using [Homotopy Type Theory](https://homotopytypetheory.org/) for proving rewriting rules.
 2. A library that consists of building blocks of proofs and automatic decision procedures (e.g. decision procedure for conjunctive queries).
 3. Machine checkable proofs for existing rewrite rules from database literatures as well as real world optimizers, ranging from basic ones such as push down selection to complex ones such as magic sets rewrites.
 
