@@ -27,7 +27,7 @@ If you have any question, want to contribute to the project, or just want to say
 
 ### People
 
-DopCert is developed by the [Database Group](http://db.cs.washington.edu/) and the [Programing Language and Software Engineering Group](http://uwplse.org/) at [University of Washington](http://www.washington.edu/), the main contributors are:
+DopCert is developed by the [Database Group](http://db.cs.washington.edu/) and the [Programing Language and Software Engineering Group](http://uwplse.org/) at the [University of Washington](http://www.washington.edu/), the main contributors are:
 
 <a class="person" href="http://shumochu.com/">
   <span class="name">Shumo Chu</span><br/>
