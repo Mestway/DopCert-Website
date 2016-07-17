@@ -11,14 +11,23 @@ DopCert is a framework developed in [Coq Proof Assistant](https://coq.inria.fr/)
 2. A library that consists of building blocks of proofs and automatic decision procedures (e.g. decision procedure for conjunctive queries).
 3. Machine checkable proofs for existing rewrite rules from database literatures as well as real world optimizers, ranging from basic ones such as push down selection to complex ones such as magic sets rewrites.
 
+### Source
+
+DopCert will be open sourced soon.
+
 ### Publications
 * [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics]() (under submission)
 
-### People
+### Contact
 
-If you have any question, want to be kept up-to date, or just want to say hi, email us at 
+If you have any question, want to contribute to the project, or just want to say hi, email us at 
 [DopCert@cs.washington.edu](mailto:DopCert@cs.washington.edu).
 <!-- chushumo at cs dot uw dot edu or weitzkon at cs dot uw dot edu. -->
+
+
+### People
+
+DopCert is developed by the [Database Group](http://db.cs.washington.edu/) and the [Programing Language and Software Engineering Group](http://uwplse.org/) at [University of Washington](http://www.washington.edu/), the main contributors are:
 
 <a class="person" href="http://shumochu.com/">
   <span class="name">Shumo Chu</span><br/>
@@ -39,4 +48,5 @@ If you have any question, want to be kept up-to date, or just want to say hi, em
   <span class="name">Dan Suciu</span><br/>
   <img class="profile" src="https://homes.cs.washington.edu/~suciu/files/me-7-2006-mexico.jpg"/>
 </a>
+
 

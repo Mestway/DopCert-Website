@@ -7,7 +7,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #31393c; }
 
 a {
   color: #1e6bb8;
@@ -54,10 +54,9 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+    text-align: center;
+    height: 210px;
+  }
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -89,8 +88,8 @@ a {
 
 .project-tagline {
   margin-bottom: 2rem;
-  font-weight: normal;
-  opacity: 0.7; }
+  font-weight: 500;
+  opacity: 0.8; }
 
 @media screen and (min-width: 64em) {
   .project-tagline {
@@ -111,8 +110,8 @@ a {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
-  font-weight: normal;
-  color: #159957; }
+  font-weight: 600;
+  color: rgb(72, 57, 130); }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -243,3 +242,21 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+img.logo {
+	height: 100px;
+	margin-top: 6px;
+}
+
+#logodiv{
+    width: 37%;
+    float: left;
+    height: 130px;
+}
+
+#titlediv{
+    text-align: left;
+    width: 63%;
+    height: 130px;
+    float: left;
+}
