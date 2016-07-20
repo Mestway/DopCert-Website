@@ -248,15 +248,19 @@ img.logo {
 	margin-top: 6px;
 }
 
+div.header {
+   white-space:nowrap;
+}
+
 #logodiv{
-    width: 37%;
-    float: left;
+    display:inline-block;
+    margin-left:10px;
     height: 130px;
 }
 
 #titlediv{
     text-align: left;
-    width: 63%;
+    display:inline-block;
+    margin-left:70px;
     height: 130px;
-    float: left;
 }
