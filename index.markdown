@@ -5,18 +5,18 @@ group: "navigation"
 id: home
 ---
 ### About
-DopCert is a framework developed in [Coq Proof Assistant](https://coq.inria.fr/) for formally verifing query optimizations in databases. It consists of the following parts:
+DopCert is a framework developed using the [Coq Proof Assistant](https://coq.inria.fr/) for formally verifing query optimizations in databases. It consists of the following parts:
 
-1. HoTTSQL, a SQL like language that covers all major SQL features, such as selection-projection-join, aggregation, correlated subqueries, index. We provide a *machine checkable denotational semantics* of HoTTSQL using [Homotopy Type Theory](https://homotopytypetheory.org/) for proving rewriting rules.
-2. A library that consists of building blocks of proofs and automatic decision procedures (e.g. decision procedure for conjunctive queries).
-3. Machine checkable proofs for existing rewrite rules from database literatures as well as real world optimizers, ranging from basic ones such as push down selection to complex ones such as magic sets rewrites.
+1. HoTTSQL, a SQL like language that covers all major SQL features, including selection-projection-join, aggregation, correlated subqueries, and indexes. We provide a *machine checkable denotational semantics* of HoTTSQL using [Homotopy Type Theory](https://homotopytypetheory.org/) for proving rewriting rules.
+2. A library that consists of building blocks of proofs and automatic decision procedures (e.g., decision procedure for conjunctive queries).
+3. Machine checkable proofs for existing rewrite rules from database literature as well as real-world optimizers, ranging from basic ones such as selection push down to complex ones such as magic sets rewrites.
 
 ### Source
 
 DopCert will be open sourced soon.
 
 ### Publications
-* [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics]() (under submission)
+* [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics](http://arxiv.org/abs/1607.04822)
 
 ### Contact
 
