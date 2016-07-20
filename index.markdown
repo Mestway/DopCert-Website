@@ -13,10 +13,10 @@ DopCert is a framework developed using the [Coq Proof Assistant](https://coq.inr
 
 ### Source
 
-DopCert will be open sourced soon.
+DopCert will be released soon.
 
 ### Publications
-* [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics](http://arxiv.org/abs/1607.04822)
+* [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics (preprint)](http://arxiv.org/abs/1607.04822)
 
 ### Contact
 
