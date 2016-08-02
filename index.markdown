@@ -39,6 +39,11 @@ DopCert is developed by the [Database Group](http://db.cs.washington.edu/) and t
   <img class="profile" src="http://www.konne.me/assets/profile.png"/>
 </a>
 
+<a class="person" href="http://www.stanleywang.org">
+  <span class="name">Chenglong Wang</span><br/>
+  <img class="profile" src="http://www.stanleywang.org/image/me.jpg"/>
+</a>
+
 <a class="person" href="https://homes.cs.washington.edu/~akcheung/">
   <span class="name">Alvin Cheung</span><br/>
   <img class="profile" src="https://homes.cs.washington.edu/~akcheung/self.jpg"/>
