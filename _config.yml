@@ -1,4 +1,4 @@
 name: DopCert
 markdown: kramdown
 highlighter: rouge
-baseurl: http://dopcert.cs.washington.edu
+baseurl: http://cosette.cs.washington.edu
