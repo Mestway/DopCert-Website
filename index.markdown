@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DopCert
+title: Cosette
 group: "navigation"
 id: home
 ---
