@@ -15,7 +15,7 @@ Cosette is a framework developed using the [Coq Proof Assistant](https://coq.inr
 
 ### Source
 
-[GitHub Repository of Cosette](https://github.com/uwdb/DopCert)
+[GitHub Repository of Cosette](https://github.com/uwdb/Cosette)
 
 ### Publications
 * [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics (preprint)](http://arxiv.org/abs/1607.04822)
