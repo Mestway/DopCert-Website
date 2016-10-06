@@ -18,6 +18,8 @@ Cosette is a framework developed using the [Coq Proof Assistant](https://coq.inr
 [GitHub Repository of Cosette](https://github.com/uwdb/Cosette)
 
 ### Publications
+* [Post](https://homotopytypetheory.org/2016/09/26/hottsql-proving-query-rewrites-with-univalent-sql-semantics) on the 
+  Homotopy Type Theory Blog
 * [HoTTSQL: Proving Query Rewrites with Univalent SQL Semantics (preprint)](http://arxiv.org/abs/1607.04822)
 
 ### Contact
